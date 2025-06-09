@@ -1,5 +1,3 @@
-# atividade-consumo-api-coinmarketcap
-
 Para rodar o app no celular será necessario habilitar as opções de desenvolvedor do celular, ligar o 
 celular no pc usando um cabo usb, e por fim rodar o projeto
 
